@@ -1,3 +1,7 @@
+tkinter
 customtkinter
-esptool
-pyserial
+Pillow
+requests
+numpy
+pandas
+matplotlib
